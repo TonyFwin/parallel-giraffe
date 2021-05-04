@@ -52,7 +52,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-            style: secondary
+            style: primary
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
